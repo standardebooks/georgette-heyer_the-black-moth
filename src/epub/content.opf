@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/38703</dc:source>
 		<dc:source>https://archive.org/details/blackmoth0000geor</dc:source>
-		<meta property="schema:wordCount">93793</meta>
+		<meta property="schema:wordCount">93805</meta>
 		<meta property="schema:educationalLevel">85.08</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Black_Moth" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
