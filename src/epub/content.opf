@@ -66,7 +66,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Jean François de Troy</dc:contributor>
 		<meta property="file-as" refines="#artist">Troy, Jean François de</meta>
-		<link href="https://en.wikipedia.org/wiki/Jean-François_de_Troy" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Jean_Fran%C3%A7ois_de_Troy" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n88132205.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Clare Graham</dc:contributor>
